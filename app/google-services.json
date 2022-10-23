@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382912084126",
+    "project_id": "fir-authenti-702cc",
+    "storage_bucket": "fir-authenti-702cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382912084126:android:66e9a6554ed2f020ffe38f",
+        "android_client_info": {
+          "package_name": "com.codepolitan.firebaseau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382912084126-rf2gmn89gdon67p3afoa8gkbb545kd64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSnYhziAVVgzfb2sp5CnwLEeUcPSh3dls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382912084126-rf2gmn89gdon67p3afoa8gkbb545kd64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
